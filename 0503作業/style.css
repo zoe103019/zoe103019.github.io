@@ -1,0 +1,24 @@
+/* 在CSS裡跟設定無關的都必須註解 Ctrl + /  */
+
+/* CSS選擇器 */
+.important-title {
+    /* 屬性: 值; */
+    color: #000000d9;
+    font-size: 42px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.section-title {
+    color: #848484;
+    font-size: 24px;
+    text-align: center;
+
+}
+
+.important-title2 {
+    color: #4b4b4bd9;
+    font-size: 18px;
+    text-align: center;
+
+}
